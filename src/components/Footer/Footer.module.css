@@ -1,0 +1,8 @@
+.ft {
+  border: solid 2px black;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  background-color: brown;
+  color: white;
+}
